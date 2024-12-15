@@ -1,4 +1,4 @@
-# Exchange Rate Converter
+# Exchange Rate Converter : https://kajaani-balabavan.github.io/Exchange-Rate-converter/
 
 I created this **Currency Converter** web application as a project to get familiar with the **useEffect** hook in React. This project helped me understand how to handle side effects and API calls within a React component.
 
@@ -19,7 +19,7 @@ Ensure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/Kajaani-Balabavan/Exchange-Rate-converter.git
-   cd currency-converter
+   cd Exchange-Rate-converter
    ```
 
 2. **Install Dependencies**
@@ -64,4 +64,4 @@ https://api.exchangerate-api.com/v4/latest/USD
 
 ## Acknowledgements
 
-- Thanks to [ExchangeRate API](https://api.exchangerate-api.com) for providing the exchange rate data.
+Thanks to [ExchangeRate API](https://api.exchangerate-api.com) for providing the exchange rate data.
